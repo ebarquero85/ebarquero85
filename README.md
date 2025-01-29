@@ -4,9 +4,11 @@ Full Stack Developer with experience in React, Angular, Golang, and AWS. Passion
 
 # Frontend
 
+<p align="left">
 <img src="img/react.png" alt="React" width="24" height="24">
 <img src="img/aws.png" alt="Amazon Web Services" width="24" height="24">
 <img src="img/linux.png" alt="Linux" width="24" height="24">
+</p>
 
 # Backend
 
