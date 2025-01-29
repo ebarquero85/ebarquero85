@@ -1,6 +1,6 @@
 # Hi, I'm Edgard 👋
 
-Full Stack Developer with experience in React, Angular, Golang, AWS, etc. Passionate about develop and technology.
+Full Stack Developer with 10 years of experience. Passionate about development and technology.
 
 <!-- # Frontend
 
@@ -56,6 +56,8 @@ Full Stack Developer with experience in React, Angular, Golang, AWS, etc. Passio
             <img src="img/react.png" alt="React" width="32" height="32">
             <img src="img/angular.png" alt="Angular" width="32" height="32">
             <img src="img/vite.png" alt="Vite" width="32" height="32">
+            <img src="img/tailwind.png" alt="Vite" width="32" height="32">
+            <img src="img/bootstrap.png" alt="Vite" width="32" height="32">
         </p>
     </td>
     <td style="border: 1px solid black; padding: 5px;">
