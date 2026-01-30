@@ -51,7 +51,7 @@ Full Stack Developer | 10+ Years Experience | Tech Enthusiast.
 
 <br>
 
-## Current Projects
+## Current Personal Projects
 
 * [Favly.app](https://favly.app/?source=github.com) - All Your Bookmarks in One Place.
 
