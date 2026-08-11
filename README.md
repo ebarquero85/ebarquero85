@@ -14,7 +14,6 @@ Full Stack Developer | 10+ Years Experience | Tech Enthusiast.
         <p align="left">
             <img src="img/react.png" alt="React" width="32" height="32">
             <img src="img/angular.png" alt="Angular" width="32" height="32">
-            <img src="img/vite.png" alt="Vite" width="32" height="32">
             <img src="img/tailwind.png" alt="Vite" width="32" height="32">
         </p>
     </td>
@@ -22,8 +21,6 @@ Full Stack Developer | 10+ Years Experience | Tech Enthusiast.
         <p align="left">
             <img src="img/golang.png" alt="Golang" width="32" height="32">
             <img src="img/typescript.png" alt="TypeScript" width="32" height="32">
-            <img src="img/node.png" alt="NodeJS" width="32" height="32">
-            <img src="img/php.png" alt="PHP" width="32" height="32">
             <img src="img/laravel.svg" alt="Laravel" width="32" height="32">
         </p>    
     </td>
@@ -41,9 +38,6 @@ Full Stack Developer | 10+ Years Experience | Tech Enthusiast.
             <img src="img/linux.gif" alt="Linux" width="32" height="32">
             <img src="img/docker.png" alt="Docker" width="32" height="32">
             <img src="img/aws.png" alt="Amazon Web Services" width="32" height="32">
-            <img src="img/kafka.svg" alt="Apache Kafka" width="32" height="32">
-            <img src="img/cicd.png" alt="Continuous Integration" width="32" height="32">
-            <img src="img/nginx.png" alt="Nginx" width="32" height="32">
         <p>
     </td>    
   </tr>
@@ -53,7 +47,8 @@ Full Stack Developer | 10+ Years Experience | Tech Enthusiast.
 
 ## Current Personal Projects
 
-* [Favly.app](https://favly.app/?ref=github.com) - All Your Bookmarks in One Place.
+* [favly.app](https://favly.app/?ref=github.com) - All Your Bookmarks in One Place.
+* [fixorai.com](https://fixorai.com/?ref=github.com) - Save hours on written communication at work.
 
 <br>
 <br>
